@@ -2,7 +2,7 @@ use std::io;
 
 fn main() {
     loop {
-        let my_family = ["Naveen", "Hemalatha", "Chiron", "Devesh"];
+        let my_family = ["Dad", "Mom", "Me", "Brother"];
 
         println!("\n------------------KEY------------------");
         for i in 0..my_family.len() {
